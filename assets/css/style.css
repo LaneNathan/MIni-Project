@@ -7,3 +7,17 @@
     --brown: rgb(114,62,11);
 
 }
+
+::selection {
+    background-color: var(--primary-color);
+    color:rgb(5, 198, 232);
+
+}
+
+html{
+    font-size: 100%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
