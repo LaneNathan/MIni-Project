@@ -25,6 +25,7 @@ body{
     font-size: 1.75rem;
     line-height: 1.5;
     background-color: var(--primary-color);
+    color: var(--tertiary-color);
 
 }
 
