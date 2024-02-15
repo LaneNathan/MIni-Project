@@ -56,5 +56,15 @@ body{
 }
 
 .code-card{
-    
+    display: flex;
+    flex-direction: column;
+    color:var(--text-color);
+}
+
+.code-card .card-header{
+    color: rgb(151, 117, 6);
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
 }
