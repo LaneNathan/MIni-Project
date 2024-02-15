@@ -34,3 +34,8 @@ body{
     margin-right: -1.5rem;
   }
 
+.main-content{
+    display: flex; /* Use flexbox layout */
+  justify-content: space-between; /* Align items with space between */
+  padding: 20px; /* Add padding around the container */
+}
