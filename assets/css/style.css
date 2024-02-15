@@ -41,9 +41,12 @@ body{
 }
 
 .card-column{
-    flex: 1 0 100%;
-    padding: 5px;
-    transition: flex-basis 500ms linear;
     margin-bottom: 1.5;
-
+    width: 100px; /* Set width of each box */
+  height: 100px; /* Set height of each box */
+  background-color: var(--secondary-color); /* Set background color */
+  border: 3px solid var(--tertiary-color); /* Add border */
+  display: flex; /* Use flexbox layout */
+  justify-content: center; /* Align content horizontally */
+  align-items: center; /* Align content vertically */
 }
