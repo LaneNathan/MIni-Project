@@ -39,3 +39,11 @@ body{
   justify-content: space-between; /* Align items with space between */
   padding: 20px; /* Add padding around the container */
 }
+
+.card-column{
+    flex: 1 0 100%;
+    padding: 5px;
+    transition: flex-basis 500ms linear;
+    margin-bottom: 1.5;
+
+}
