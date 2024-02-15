@@ -26,4 +26,11 @@ body{
 
 }
 
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-left: -1.5rem;
+    margin-right: -1.5rem;
+  }
 
