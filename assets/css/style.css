@@ -1,4 +1,9 @@
 :root{
-    background-color: rgb(100,121,9);
-    
+    --primary-color: rgb(100,121,9);
+    --secondary-color: rgb(152,157,111);
+    --tertiary-color: rgb(193,151,38);
+    --text-color: #f8f4f4;
+    --border-color: rgb(252,179,43);
+    --brown: rgb(114,62,11);
+
 }
