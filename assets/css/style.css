@@ -13,6 +13,9 @@
     color:rgb(5, 198, 232);
 
 }
+.page-title{
+    background-color: var(--brown);
+}
 
 html{
     font-size: 1.25rem;
@@ -68,3 +71,4 @@ body{
     text-align: center;
     justify-content: center;
 }
+
