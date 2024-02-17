@@ -41,7 +41,6 @@ body{
   }
 
 .main-content{
-    flex-wrap: wrap;
     display: flex; /* Use flexbox layout */
   justify-content: space-between; /* Align items with space between */
   padding: 20px; /* Add padding around the container */
@@ -61,6 +60,7 @@ body{
 .code-card{
     display: flex;
     flex-direction: column;
+
     color:var(--text-color);
 }
 
