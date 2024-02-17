@@ -39,6 +39,11 @@ body{
     margin-left: -1.5rem;
     margin-right: -1.5rem;
   }
+  main{
+    width: 90%;
+    margin: 1rem auto;
+
+  }
 
 .main-content{
     display: flex; /* Use flexbox layout */
