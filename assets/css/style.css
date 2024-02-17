@@ -62,7 +62,7 @@ body{
    border: solid;
    flex-direction: row;
     margin: 83px;
-    display:flexbox;
+    display:flex;
 }
 
 .code-card{
