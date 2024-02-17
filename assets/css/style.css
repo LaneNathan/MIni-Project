@@ -60,8 +60,6 @@ body{
    border-style: var(--brown);
    border: solid;
    flex: 1 0 100%;
-   display: grid;
-    grid-auto-columns: max-content;
     margin: 83px;
     padding: 97px
 }
