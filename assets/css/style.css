@@ -47,7 +47,6 @@ body{
 }
 
 .card-column{
-    margin-bottom: 1.5;
     width: 50%; /* Set width of each box */
   height: 50%; /* Set height of each box */
   background-color: var(--secondary-color); /* Set background color */
