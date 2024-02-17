@@ -52,13 +52,10 @@ body{
 }
 
 .card-column{
-    width: inherit; /* Set width of each box */
-  height: 10%; /* Set height of each box */
-  background-color: var(--secondary-color); /* Set background color */
-  border: 3px solid var(--tertiary-color); /* Add border */
-  display: flex; /* Use flexbox layout */
-  justify-content: center; /* Align content horizontally */
-  align-items: center; /* Align content vertically */
+   background-color: var(--secondary-color);
+   border-style: var(--brown);
+   border: solid;
+   flex: 1 0 100%;
 }
 
 .code-card{
