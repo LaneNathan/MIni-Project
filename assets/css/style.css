@@ -47,7 +47,6 @@ body{
 
 .main-content{
     display: flex; /* Use flexbox layout */
-    justify-content: center; /* Align items with space between */
   padding: 20px; /* Add padding around the container */
   flex-wrap: wrap;
   grid-auto-columns: max-content;
