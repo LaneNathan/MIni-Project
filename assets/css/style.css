@@ -57,7 +57,7 @@ body{
   background-color: var(--secondary-color); /* Set background color */
   border: 3px solid var(--tertiary-color); /* Add border */
   display: flex; /* Use flexbox layout */
-  justify-content: flex-start; /* Align content horizontally */
+  justify-content: center; /* Align content horizontally */
   align-items: center; /* Align content vertically */
 }
 
