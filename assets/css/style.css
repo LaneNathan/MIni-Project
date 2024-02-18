@@ -87,8 +87,7 @@ body{
 
 @media screen and (min-width: 992px){
     .card-column{
-        flex: auto;
-        max-width: 0 0 33.33%;
+        display: flex;
     };
 }
 
