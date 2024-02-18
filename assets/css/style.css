@@ -17,6 +17,10 @@
     background-color: var(--brown);
 }
 
+.header-paragraph{
+    background-color: #f8f4f4;
+}
+
 html{
     font-size: 1.25rem;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
